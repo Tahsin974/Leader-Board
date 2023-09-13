@@ -203,7 +203,15 @@ hr {
     }
 
     nav>ul {
-        padding-right: 6%;
+        padding-right: 10%;
+    }
+
+    nav li {
+        padding-left: 20px;
+    }
+
+    .section-title {
+        text-align: center;
     }
 
     .container {
